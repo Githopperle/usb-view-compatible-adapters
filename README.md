@@ -21,13 +21,13 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | [Blackmagic Design Web Presenter HD](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
 | [Blackmagic Design Web Presenter 4K](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
 ||||
-| [Blackmagic UltraStudio Recorder 3G](https://www.blackmagicdesign.com/products/ultrastudio/techspecs/W-DLUS-12)  | ⭕️ | Thunderbolt |
-| [Blackmagic UltraStudio 4K Mini](https://www.blackmagicdesign.com/products/ultrastudio/techspecs/W-DLUS-11)  | ⭕️ | Thunderbolt |
 | [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/gp/product/B093D6824V/) | ⭕️ | Awaiting Testing |
 ||||
 | [XIIXMASK capturadora de Video, capturadora Audio y Video, Tarjeta de Captura USB 3.0 4K HDMI Loop-out, 1080P 60FPS/2K 30FPS](https://www.amazon.es/dp/B0CP659ZSV) | ❌ | Flashing Video |
 | [Adaptador USB C HDMI,Adaptador USB C a HDMI 4K Adaptador Thunderbolt 3 a HDMI](https://www.amazon.es/dp/B0C9MD3WHP) | ❌ | Flashing Video |
 | [AVerMedia Live Gamer Portable 2](https://www.avermedia.com/th/product-detail/gc510) | ❌ | Black screen |
+| [Blackmagic UltraStudio Recorder 3G](https://www.blackmagicdesign.com/products/ultrastudio/techspecs/W-DLUS-12)  | ❌ | Thunderbolt |
+| [Blackmagic UltraStudio 4K Mini](https://www.blackmagicdesign.com/products/ultrastudio/techspecs/W-DLUS-11)  | ❌ | Thunderbolt |
 
 To add your HDMI-to-USB/UVC adapter to this table, fork this repo, make your change, and submit a pull request. Follow the format of the other entries in this document as your guide:
 
@@ -37,7 +37,7 @@ To add your HDMI-to-USB/UVC adapter to this table, fork this repo, make your cha
 
 # USB-C Hub
 
-A USB-C hub (or Thunderbolt Hub, if you are using an HDMI-to-Thunderbolt device) is recommended because the hub will allow you to connect to the following peripherals that will make for an ideal MixEffect user experience:
+A USB-C hub is recommended because the hub will allow you to connect to the following peripherals that will make for an ideal MixEffect user experience:
 
 - **Power**: Being connected to power means the iPad will not run out of batteries during a long event.
 - **Ethernet**: MixEffect's connection to an ATEM is best with a hardline Ethernet connection.
