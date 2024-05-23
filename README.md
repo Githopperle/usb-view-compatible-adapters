@@ -22,4 +22,23 @@ To add your HDMI-to-USB/UVC adapter to this table, fork this repo, make your cha
 - Second column should be ✅ or ❌ depending on whether the adapter works or not.
 - Third column should be notes for the adapter. If you have tested this with multiple ATEMs and iPads, note them. If the adapter doesn't work, tell us what it showed (i.e. flashing video or dark screen).
 
+# USB-C Hub
+
+A USB-C hub (or Thunderbolt Hub, if you are using an HDMI-to-Thunderbolt device) is recommended because the hub will allow you to connect to the following peripherals that will make for an ideal MixEffect user experience:
+
+- **Power**: Being connected to power means the iPad will not run out of batteries during a long event.
+- **Ethernet**: MixEffect's connection to an ATEM is best with a hardline Ethernet connection.
+- **USB Ports**: Multiple USB ports means you can connect the HDMI to USB adapter, along with mice, keyboards, and other USB accessories.
+
+Here are links to a recommended USB-C hub and cable combination:
+
+- [USB C Hub, uni USB Type C 8 in 1 Hub with Detachable Connector, 4K HDMI, 1Gbps Ethernet, SD/MicroSD Card Reader, Up to 100W](https://amzn.to/4aZvBdp)
+- [Monoprice USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5 Amp, 30AWG, 3.3 Feet](https://amzn.to/3y4eXLi)
+
+What's good about the UNI hub is that it comes with a detachable cable, meaning it can be placed at comfortable distance away from the iPad.
+
 ![USB View in MixEffect](https://docs.mixeffect.app/~gitbook/image?url=https%3A%2F%2F3777554060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MaiI5oKYEXGU01L5yjC%252Fuploads%252FQtCHjbtr8n2o7FBroeLo%252Fusb-view-mixeffect.png%3Falt%3Dmedia%26token%3Dbbe7078a-21a4-4079-8196-38c5dcef846f&width=768&dpr=2&quality=100&sign=a9ca8e4317479764426c892284afc5264b6af14efcc94c5ea294782980bd7e18)
+
+----
+
+_Note: Some of the links here are affiliate links, which means the repo owner may earn a commission if you make a purchase through these links, at no additional cost to you._
