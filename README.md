@@ -15,13 +15,12 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 
 | Product    | Works | Notes |
 | -------- | ------- | ------- |
-| [4K HDMI to USB Video Capture Card, Cam Link Capture Card, Type-C 1080P HD Video Recorder](https://amzn.to/3y3CAUf)  | ✅ | Tested on ATEM Mini Pro, Mini Extreme ISO, and 2 M/E Constellation HD |
+| [4K HDMI to USB Video Capture Card, Cam Link Capture Card, Type-C 1080P HD Video Recorder](https://amzn.to/3y3CAUf)  | ✅ | Tested on ATEM Mini Pro, Mini Extreme ISO, and 2 M/E Constellation HD. Available in the US. |
 | [Elgato Cam Link 4K](https://www.elgato.com/us/en/p/cam-link-4k) | ✅ ||
 | [Elgato HD60 X](https://www.elgato.com/us/en/p/game-capture-hd60-x) | ✅ ||
+| [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/dp/B093D6824V) | ✅ | Available in Europe |
 | [Blackmagic Design Web Presenter HD](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
 | [Blackmagic Design Web Presenter 4K](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
-||||
-| [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/gp/product/B093D6824V/) | ⭕️ | Awaiting Testing |
 ||||
 | [XIIXMASK capturadora de Video, capturadora Audio y Video, Tarjeta de Captura USB 3.0 4K HDMI Loop-out, 1080P 60FPS/2K 30FPS](https://www.amazon.es/dp/B0CP659ZSV) | ❌ | Flashing Video |
 | [Adaptador USB C HDMI,Adaptador USB C a HDMI 4K Adaptador Thunderbolt 3 a HDMI](https://www.amazon.es/dp/B0C9MD3WHP) | ❌ | Flashing Video |
