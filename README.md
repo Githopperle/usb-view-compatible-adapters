@@ -21,6 +21,7 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/dp/B093D6824V) | ✅ | Available in Europe |
 | [Blackmagic Design Web Presenter HD](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
 | [Blackmagic Design Web Presenter 4K](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
+| [Vivitar HDMI to USB Video Converter with Real-Time HDMI Video and Audio for Live Streaming](https://www.walmart.com/ip/Vivitar-HDMI-to-USB-Video-Converter-with-Real-Time-HDMI-Video-and-Audio-for-Live-Streaming-Includes-USB-C-Adapter-Cable-Black/936344280) | ✅ ||
 ||||
 | [UGREEN Capture Card Full HD 1080P 60FPS HDMI to USB A/Type C 4K Video Capture Card for Streaming, Recording, Gaming, Compatible with Switch, PS4, PS5, Xbox, Work with PC/Windows/Mac OS](https://www.amazon.com/UGREEN-Capture-Streaming-Recording-Compatible/dp/B0CFQ2BMPZ) | ⭕️ | user requested for someone to test |
 ||||
