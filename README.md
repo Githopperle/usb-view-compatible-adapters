@@ -30,6 +30,8 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | [XIIXMASK capturadora de Video, capturadora Audio y Video, Tarjeta de Captura USB 3.0 4K HDMI Loop-out, 1080P 60FPS/2K 30FPS](https://www.amazon.es/dp/B0CP659ZSV) | ❌ | Flashing Video |
 | [Adaptador USB C HDMI,Adaptador USB C a HDMI 4K Adaptador Thunderbolt 3 a HDMI](https://www.amazon.es/dp/B0C9MD3WHP) | ❌ | Flashing Video |
 | [avedio links Capture Card, USB 3.0 Video Capture Card, 4K@60Hz USB C/A HDMI Capture Card with Loop-Out, 1080P 60FPS Game Capture Card für Streaming Work Kompatibel mit Ps5/Switch/OBS/PC/Camera](https://www.amazon.de/gp/product/B0CQWY3BKK) | ❌ | Flashing Video |
+| [Guermok Video Capture Card, USB3.0 HDMI to USB C Audio Capture Card, 4K 1080P 60FPS Capture with Type-C Adapter Devices](https://www.amazon.com/dp/B08Z3XDYQ7) | ❌ | Flashing Video |
+| [Capture Card Nintendo Switch, 4K HDMI Video Capture Card, 1080P 60FPS, HDMI to USB 3.0 Capture Card for Streaming](https://www.amazon.com/dp/B097DKNS1M) | ❌ | Flashing Video |
 | [AVerMedia Live Gamer Portable 2](https://www.avermedia.com/th/product-detail/gc510) | ❌ | Black screen |
 | [Blackmagic UltraStudio Recorder 3G](https://www.blackmagicdesign.com/products/ultrastudio/techspecs/W-DLUS-12)  | ❌ | Thunderbolt |
 | [Blackmagic UltraStudio 4K Mini](https://www.blackmagicdesign.com/products/ultrastudio/techspecs/W-DLUS-11)  | ❌ | Thunderbolt |
