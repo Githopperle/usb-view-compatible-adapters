@@ -16,7 +16,7 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | Product    | Works | Notes |
 | -------- | ------- | ------- |
 | [4K HDMI to USB Video Capture Card, Cam Link Capture Card, Type-C 1080P HD Video Recorder](https://amzn.to/3y3CAUf)  | ✅ | Tested on ATEM Mini Pro, Mini Extreme ISO, and 2 M/E Constellation HD. Available in the US. |
-| [Elgato Cam Link 4K](https://www.elgato.com/us/en/p/cam-link-4k) | ✅ ||
+| [Elgato Cam Link 4K](https://www.elgato.com/us/en/p/cam-link-4k) | ✅ |Takes a few seconds before the image appears|
 | [Elgato HD60 X](https://www.elgato.com/us/en/p/game-capture-hd60-x) | ✅ ||
 | Elgato HD60 S | ✅ ||
 | [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/dp/B093D6824V) | ✅ | Available in Europe |
@@ -24,6 +24,7 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | [Blackmagic Design Web Presenter 4K](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
 | [Vivitar HDMI to USB Video Converter with Real-Time HDMI Video and Audio for Live Streaming](https://www.walmart.com/ip/Vivitar-HDMI-to-USB-Video-Converter-with-Real-Time-HDMI-Video-and-Audio-for-Live-Streaming-Includes-USB-C-Adapter-Cable-Black/936344280) | ✅ ||
 | [NZXT Signal HD60 Full HD USB Capture Card - ST-EESC1-WW - HD60 (1080p)](https://www.amazon.de/gp/product/B0B4PYVMPZ) | ✅ ||
+| [video capture card, Papeaso 4K HDMI to USB , Full HD 1080p device, for Editing Video/Games/Streaming/Online Teaching](https://www.amazon.de/dp/B0BL3HVMWW?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)| ✅ ||
 ||||
 | [UGREEN Capture Card Full HD 1080P 60FPS HDMI to USB A/Type C 4K Video Capture Card for Streaming, Recording, Gaming, Compatible with Switch, PS4, PS5, Xbox, Work with PC/Windows/Mac OS](https://www.amazon.com/UGREEN-Capture-Streaming-Recording-Compatible/dp/B0CFQ2BMPZ) | ⭕️ | user requested for someone to test |
 ||||
