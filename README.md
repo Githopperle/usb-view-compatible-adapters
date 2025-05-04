@@ -18,7 +18,7 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | [4K HDMI to USB Video Capture Card, Cam Link Capture Card, Type-C 1080P HD Video Recorder](https://amzn.to/3y3CAUf)  | ✅ | Tested on ATEM Mini Pro, Mini Extreme ISO, and 2 M/E Constellation HD. Available in the US. |
 | [Elgato Cam Link 4K](https://www.elgato.com/us/en/p/cam-link-4k) | ✅ |Takes a few seconds before the image appears|
 | [Elgato HD60 X](https://www.elgato.com/us/en/p/game-capture-hd60-x) | ✅ ||
-| Elgato HD60 S | ✅ ||
+| [Elgato HD60 S](https://amzn.eu/d/jgNI9K6) | ✅ ||
 | [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/dp/B093D6824V) | ✅ | Available in Europe |
 | [Blackmagic Design Web Presenter HD](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
 | [Blackmagic Design Web Presenter 4K](https://www.blackmagicdesign.com/products/blackmagicwebpresenter) | ✅ | SDI In |
